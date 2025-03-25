@@ -2,6 +2,7 @@
 Welcome to my repository for ECE C147! This repository contains notes, assignments, and projects related to the course content on machine learning and deep learning. Below is an overview of the key concepts covered in the course:
 
 📌 Course Topics
+
 🔹 Machine Learning Foundations
 - Maximum likelihood estimation
 - Supervised classification
